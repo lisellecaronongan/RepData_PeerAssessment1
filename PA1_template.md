@@ -1,6 +1,12 @@
 ------------------------------------------------------------------------
 
-title: "Reproducible Research Project 1" author: Liselle Caronongan date: November 2017 output: md\_document: variant: markdown\_github ---
+
+title: "Reproducible Research Project 1"
+author: Liselle Caronongan
+date: November 2017
+output:
+  md_document:
+    variant: markdown_github
 
 echo = TRUE
 
